@@ -1,0 +1,6 @@
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppTercerEjercicio\AppTercerEjercicio\bin\Debug\AppTercerEjercicio.exe.config
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppTercerEjercicio\AppTercerEjercicio\bin\Debug\AppTercerEjercicio.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppTercerEjercicio\AppTercerEjercicio\bin\Debug\AppTercerEjercicio.pdb
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppTercerEjercicio\AppTercerEjercicio\obj\Debug\AppTercerEjercicio.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppTercerEjercicio\AppTercerEjercicio\obj\Debug\AppTercerEjercicio.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppTercerEjercicio\AppTercerEjercicio\obj\Debug\AppTercerEjercicio.pdb

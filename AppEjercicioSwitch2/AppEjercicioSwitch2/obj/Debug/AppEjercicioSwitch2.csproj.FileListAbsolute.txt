@@ -1,0 +1,5 @@
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicioSwitch2\AppEjercicioSwitch2\bin\Debug\AppEjercicioSwitch2.exe.config
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicioSwitch2\AppEjercicioSwitch2\bin\Debug\AppEjercicioSwitch2.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicioSwitch2\AppEjercicioSwitch2\bin\Debug\AppEjercicioSwitch2.pdb
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicioSwitch2\AppEjercicioSwitch2\obj\Debug\AppEjercicioSwitch2.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicioSwitch2\AppEjercicioSwitch2\obj\Debug\AppEjercicioSwitch2.pdb

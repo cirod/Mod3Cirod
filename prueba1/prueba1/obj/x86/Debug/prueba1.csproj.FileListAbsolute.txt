@@ -1,0 +1,5 @@
+C:\Users\LAB1DPC13\Documents\Projects\prueba1\prueba1\bin\Debug\prueba1.exe
+C:\Users\LAB1DPC13\Documents\Projects\prueba1\prueba1\bin\Debug\prueba1.pdb
+C:\Users\LAB1DPC13\Documents\Projects\prueba1\prueba1\obj\x86\Debug\prueba1.csprojResolveAssemblyReference.cache
+C:\Users\LAB1DPC13\Documents\Projects\prueba1\prueba1\obj\x86\Debug\prueba1.exe
+C:\Users\LAB1DPC13\Documents\Projects\prueba1\prueba1\obj\x86\Debug\prueba1.pdb

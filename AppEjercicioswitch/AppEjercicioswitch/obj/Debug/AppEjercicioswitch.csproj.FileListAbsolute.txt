@@ -1,0 +1,6 @@
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicioswitch\AppEjercicioswitch\bin\Debug\AppEjercicioswitch.exe.config
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicioswitch\AppEjercicioswitch\bin\Debug\AppEjercicioswitch.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicioswitch\AppEjercicioswitch\bin\Debug\AppEjercicioswitch.pdb
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicioswitch\AppEjercicioswitch\obj\Debug\AppEjercicioswitch.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicioswitch\AppEjercicioswitch\obj\Debug\AppEjercicioswitch.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEjercicioswitch\AppEjercicioswitch\obj\Debug\AppEjercicioswitch.pdb

@@ -1,0 +1,5 @@
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppCuartoEjercicio\AppCuartoEjercicio\bin\Debug\AppCuartoEjercicio.exe.config
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppCuartoEjercicio\AppCuartoEjercicio\bin\Debug\AppCuartoEjercicio.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppCuartoEjercicio\AppCuartoEjercicio\bin\Debug\AppCuartoEjercicio.pdb
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppCuartoEjercicio\AppCuartoEjercicio\obj\Debug\AppCuartoEjercicio.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppCuartoEjercicio\AppCuartoEjercicio\obj\Debug\AppCuartoEjercicio.pdb
